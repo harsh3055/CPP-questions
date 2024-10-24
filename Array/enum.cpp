@@ -4,12 +4,12 @@
 namespace apple {
 void print() {
 	std::cout << "inside apple" << std::endl;
-};
+   };
 }
 namespace orange {
 void print() {
 	std::cout << "inside orange" << std::endl;
-}
+   }
 };
 
 class Entity {
